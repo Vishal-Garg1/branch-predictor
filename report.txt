@@ -1,0 +1,17 @@
+For bubble sort :
+Always taken Branch Predictor Accuracy = 42.6303%
+Always not taken Branch Predictor Accuracy = 58.2632%
+1-bit dynamic Branch Predictor Accuracy = 97.9341%
+2-bit dynamic Branch Predictor Accuracy = 98.3673%
+
+For matrix multiplication :
+Always taken Branch Predictor Accuracy = 69.1372%
+Always not taken Branch Predictor Accuracy = 31.0094%
+1-bit dynamic Branch Predictor Accuracy = 89.7301%
+2-bit dynamic Branch Predictor Accuracy = 91.3853%
+
+For Binary Search :
+Always taken Branch Predictor Accuracy = 71.9871%
+Always not taken Branch Predictor Accuracy = 28.1547%
+1-bit dynamic Branch Predictor Accuracy = 94.1715%
+2-bit dynamic Branch Predictor Accuracy = 95.173%
